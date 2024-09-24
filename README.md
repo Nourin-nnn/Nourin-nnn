@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nourin</h1>
 <h3 align="center">CSE graduate</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/nourin-noushrat/</h3>
 <p align="left">
 </p>
 
